@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Calibrador_GCM5000")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4ae4718dd19debf96fb0e1a9ec91127e0fc5b09c")]
 [assembly: System.Reflection.AssemblyProductAttribute("Calibrador_GCM5000")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Calibrador_GCM5000")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
