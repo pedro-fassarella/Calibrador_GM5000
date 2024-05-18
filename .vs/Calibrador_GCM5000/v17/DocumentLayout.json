@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projetos\\Calibrador_GCM5000\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{34B1BA05-C7EA-4292-8D83-E7189AD52BBD}|Calibrador_GCM5000\\Calibrador_GCM5000.csproj|C:\\Projetos\\Calibrador_GCM5000\\calibrador_gcm5000\\views\\frmgraficosdados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{34B1BA05-C7EA-4292-8D83-E7189AD52BBD}|Calibrador_GCM5000\\Calibrador_GCM5000.csproj|solutionrelative:calibrador_gcm5000\\views\\frmgraficosdados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34B1BA05-C7EA-4292-8D83-E7189AD52BBD}|Calibrador_GCM5000\\Calibrador_GCM5000.csproj|c:\\projetos\\calibrador_gcm5000\\calibrador_gcm5000\\views\\frmgraficosdados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34B1BA05-C7EA-4292-8D83-E7189AD52BBD}|Calibrador_GCM5000\\Calibrador_GCM5000.csproj|solutionrelative:calibrador_gcm5000\\views\\frmgraficosdados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34B1BA05-C7EA-4292-8D83-E7189AD52BBD}|Calibrador_GCM5000\\Calibrador_GCM5000.csproj|C:\\Projetos\\Calibrador_GCM5000\\calibrador_gcm5000\\views\\frmcalibrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34B1BA05-C7EA-4292-8D83-E7189AD52BBD}|Calibrador_GCM5000\\Calibrador_GCM5000.csproj|solutionrelative:calibrador_gcm5000\\views\\frmcalibrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34B1BA05-C7EA-4292-8D83-E7189AD52BBD}|Calibrador_GCM5000\\Calibrador_GCM5000.csproj|C:\\Projetos\\Calibrador_GCM5000\\calibrador_gcm5000\\controle\\datacleaner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34B1BA05-C7EA-4292-8D83-E7189AD52BBD}|Calibrador_GCM5000\\Calibrador_GCM5000.csproj|solutionrelative:calibrador_gcm5000\\controle\\datacleaner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34B1BA05-C7EA-4292-8D83-E7189AD52BBD}|Calibrador_GCM5000\\Calibrador_GCM5000.csproj|C:\\Projetos\\Calibrador_GCM5000\\calibrador_gcm5000\\dados\\factors\\fatores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34B1BA05-C7EA-4292-8D83-E7189AD52BBD}|Calibrador_GCM5000\\Calibrador_GCM5000.csproj|solutionrelative:calibrador_gcm5000\\dados\\factors\\fatores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34B1BA05-C7EA-4292-8D83-E7189AD52BBD}|Calibrador_GCM5000\\Calibrador_GCM5000.csproj|c:\\projetos\\calibrador_gcm5000\\calibrador_gcm5000\\controle\\calculadorrlm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34B1BA05-C7EA-4292-8D83-E7189AD52BBD}|Calibrador_GCM5000\\Calibrador_GCM5000.csproj|solutionrelative:calibrador_gcm5000\\controle\\calculadorrlm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Fatores.cs",
+              "DocumentMoniker": "C:\\Projetos\\Calibrador_GCM5000\\Calibrador_GCM5000\\Dados\\Factors\\Fatores.cs",
+              "RelativeDocumentMoniker": "Calibrador_GCM5000\\Dados\\Factors\\Fatores.cs",
+              "ToolTip": "C:\\Projetos\\Calibrador_GCM5000\\Calibrador_GCM5000\\Dados\\Factors\\Fatores.cs",
+              "RelativeToolTip": "Calibrador_GCM5000\\Dados\\Factors\\Fatores.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAIAwwBEAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T20:21:47.42Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CalculadorRLM.cs",
+              "DocumentMoniker": "C:\\Projetos\\Calibrador_GCM5000\\Calibrador_GCM5000\\Controle\\CalculadorRLM.cs",
+              "RelativeDocumentMoniker": "Calibrador_GCM5000\\Controle\\CalculadorRLM.cs",
+              "ToolTip": "C:\\Projetos\\Calibrador_GCM5000\\Calibrador_GCM5000\\Controle\\CalculadorRLM.cs",
+              "RelativeToolTip": "Calibrador_GCM5000\\Controle\\CalculadorRLM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T19:46:10.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmGraficosDados.cs",
+              "DocumentMoniker": "C:\\Projetos\\Calibrador_GCM5000\\Calibrador_GCM5000\\Views\\FrmGraficosDados.cs",
+              "RelativeDocumentMoniker": "Calibrador_GCM5000\\Views\\FrmGraficosDados.cs",
+              "ToolTip": "C:\\Projetos\\Calibrador_GCM5000\\Calibrador_GCM5000\\Views\\FrmGraficosDados.cs",
+              "RelativeToolTip": "Calibrador_GCM5000\\Views\\FrmGraficosDados.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwBIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T21:47:56.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmGraficosDados.cs [Projeto]",
+              "DocumentMoniker": "C:\\Projetos\\Calibrador_GCM5000\\Calibrador_GCM5000\\Views\\FrmGraficosDados.cs",
+              "RelativeDocumentMoniker": "Calibrador_GCM5000\\Views\\FrmGraficosDados.cs",
+              "ToolTip": "C:\\Projetos\\Calibrador_GCM5000\\Calibrador_GCM5000\\Views\\FrmGraficosDados.cs [Projeto]",
+              "RelativeToolTip": "Calibrador_GCM5000\\Views\\FrmGraficosDados.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T22:56:03.92Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmCalibrador.cs",
+              "DocumentMoniker": "C:\\Projetos\\Calibrador_GCM5000\\Calibrador_GCM5000\\Views\\FrmCalibrador.cs",
+              "RelativeDocumentMoniker": "Calibrador_GCM5000\\Views\\FrmCalibrador.cs",
+              "ToolTip": "C:\\Projetos\\Calibrador_GCM5000\\Calibrador_GCM5000\\Views\\FrmCalibrador.cs",
+              "RelativeToolTip": "Calibrador_GCM5000\\Views\\FrmCalibrador.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFkAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T23:06:01.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DataCleaner.cs",
+              "DocumentMoniker": "C:\\Projetos\\Calibrador_GCM5000\\Calibrador_GCM5000\\Controle\\DataCleaner.cs",
+              "RelativeDocumentMoniker": "Calibrador_GCM5000\\Controle\\DataCleaner.cs",
+              "ToolTip": "C:\\Projetos\\Calibrador_GCM5000\\Calibrador_GCM5000\\Controle\\DataCleaner.cs",
+              "RelativeToolTip": "Calibrador_GCM5000\\Controle\\DataCleaner.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAsAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T21:12:55.726Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
